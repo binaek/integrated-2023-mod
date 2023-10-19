@@ -1,5 +1,6 @@
 dashboard "northwind" {
   title =  "Northwind Dashboard"
+  connection_string = "sqlite://northwind.db"
   
   container {
     card {
