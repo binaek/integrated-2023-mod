@@ -1,5 +1,5 @@
 dashboard "northwind" {
-  title =  "Northwind Dashboard"
+  title =  "SQLite Northwind Dashboard"
   connection_string = "sqlite://northwind.db"
   
   container {
